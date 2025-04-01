@@ -1,0 +1,10 @@
+{
+	"id": "ttrpg-tools",
+	"name": "TTRPG Tools",
+	"version": "0.0.1",
+	"minAppVersion": "0.15.0",
+	"description": "",
+	"author": "Henrique Garcia",
+	"authorUrl": "https://github.com/Henriq-Garcia",
+	"isDesktopOnly": false
+}
