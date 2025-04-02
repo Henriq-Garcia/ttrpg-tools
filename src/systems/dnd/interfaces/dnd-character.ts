@@ -1,20 +1,3 @@
-const DnD_SUBCLASSES = {
-    fighter: ["Champion", "Eldritch Knight", "Battle Master"],
-    warlock: ["The Archfey", "The Fiend", "The Great Old One"]
-}
-
-const DnD_RACES = {
-    elf: ["Wood Elf", "High Elf"],
-    human: ["Variant Human"],
-    dwarf: ["Mountain Dwarf", "Hill Dwarf"]
-}
-
-const DnD_ALIGNMENTS = [
-    "Lawful Good", "Neutral Good", "Chaotic Good", 
-    "Lawful Neutral", "Neutral", "Chaotic Neutral",
-    "Lawful Evil", "Neutral Evil", "Chaotic Evil"
-]
-
 export interface IDnDCharacterClass {
     name: string;
     subclass: string;
